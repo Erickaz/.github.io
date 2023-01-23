@@ -1,2 +1,2 @@
-# .github.io
+# Erickaz.github.io
 DATA352W on Jan 18.
