@@ -1,2 +1,2 @@
-# Erickaz.github.io
-DATA352W on Jan 18.
+<!DOCTYPE html>
+<h1> DATA 3452W </h1>
