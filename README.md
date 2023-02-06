@@ -3,9 +3,9 @@
 <p>
 <strong>Prefered Name:</strong> Eric <br>
 
-This is now in html! <br>
+This is the wbsite for my public repository <br>
 
-This that those and this
+Here's a fun image:
 </p>
 
 
