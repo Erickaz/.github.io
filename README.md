@@ -1,7 +1,10 @@
-<h1> Eric's DATA 3452W Webpage
+<head>
  <style>
   p { background color: marron; }
  </style>
+</head>
+<h1>
+ Eric's DATA 3452W Repository Webpage
 </h1>
 <p>
  <strong>Prefered Name:</strong> Eric <br>
