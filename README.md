@@ -5,7 +5,7 @@
 This is the wbsite for my public repository.<br>
  <a heref="https://github.com/Erickaz/Erickaz.github.io">LINK HERE</a> <br>
 
-Here's a fun image: <img scr=" " alt=" "></img>
+Here's a fun image: ###<img scr=" " alt=" "></img>
 </p>
 
 
