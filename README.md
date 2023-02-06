@@ -1,6 +1,6 @@
 <head>
  <style>
-  p { background color: marron; }
+  p { background: marron; }
  </style>
 </head>
 <h1>
