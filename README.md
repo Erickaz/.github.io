@@ -1,6 +1,5 @@
-<h1>
- Eric's DATA 3452W Repository Webpage
-</h1>
+Eric's DATA 3452W Repository Webpage
+
 <p>
  <strong>Prefered Name:</strong> Eric <br>
 
