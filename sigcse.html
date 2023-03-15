@@ -6,14 +6,14 @@
   </style>
  </head>
  <body onload="draw();">
-  <canvas id="randCanv" width="150" height="150"></canvas>   // can add style="outline-style:dotted"
+  <canvas id="randCanv" width="150" height="150"></canvas>   <!--- can add style="outline-style:dotted" --->
   <script>
    function draw()
    {
     var canvas = document.getElementById("randCanv");
     var ctx = canvas.getContext("2d");
     ctx.fillStyle = "green";
-    ctx.fillRect(25, 25, 80, 96);   <!--- x, y, width, height --->
+    ctx.fillRect(25, 25, 75, 90);   <!--- x, y, width, height --->
     <!--- next 2 for axies --->
     ctx.fillrect(0,100,150,2)
     ctx.fillrect(100,0,2,150)
